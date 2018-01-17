@@ -1,0 +1,11 @@
+C:\Users\user\greenfox\Nyina\week-09\day01\ListingToDos\ListingToDos\bin\Debug\netcoreapp2.0\ListingToDos.deps.json
+C:\Users\user\greenfox\Nyina\week-09\day01\ListingToDos\ListingToDos\bin\Debug\netcoreapp2.0\ListingToDos.runtimeconfig.json
+C:\Users\user\greenfox\Nyina\week-09\day01\ListingToDos\ListingToDos\bin\Debug\netcoreapp2.0\ListingToDos.runtimeconfig.dev.json
+C:\Users\user\greenfox\Nyina\week-09\day01\ListingToDos\ListingToDos\bin\Debug\netcoreapp2.0\ListingToDos.dll
+C:\Users\user\greenfox\Nyina\week-09\day01\ListingToDos\ListingToDos\obj\Debug\netcoreapp2.0\ListingToDos.csprojResolveAssemblyReference.cache
+C:\Users\user\greenfox\Nyina\week-09\day01\ListingToDos\ListingToDos\obj\Debug\netcoreapp2.0\ListingToDos.csproj.CoreCompileInputs.cache
+C:\Users\user\greenfox\Nyina\week-09\day01\ListingToDos\ListingToDos\obj\Debug\netcoreapp2.0\ListingToDos.AssemblyInfoInputs.cache
+C:\Users\user\greenfox\Nyina\week-09\day01\ListingToDos\ListingToDos\obj\Debug\netcoreapp2.0\ListingToDos.AssemblyInfo.cs
+C:\Users\user\greenfox\Nyina\week-09\day01\ListingToDos\ListingToDos\bin\Debug\netcoreapp2.0\ListingToDos.pdb
+C:\Users\user\greenfox\Nyina\week-09\day01\ListingToDos\ListingToDos\obj\Debug\netcoreapp2.0\ListingToDos.dll
+C:\Users\user\greenfox\Nyina\week-09\day01\ListingToDos\ListingToDos\obj\Debug\netcoreapp2.0\ListingToDos.pdb
